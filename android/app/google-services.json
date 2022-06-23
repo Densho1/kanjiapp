@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "39770103581",
+    "project_id": "shodenn-kanjiapp",
+    "storage_bucket": "shodenn-kanjiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39770103581:android:28334a16a7648a21e50bf4",
+        "android_client_info": {
+          "package_name": "com.shodenn.kanjiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39770103581-n1uccnf84mf2tu9lruld2uc273vc850k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shodenn.kanjiapp",
+            "certificate_hash": "a7ed8d1df6a8dc0a25a7ea2cf4f989bc8cc5a58a"
+          }
+        },
+        {
+          "client_id": "39770103581-s8qu9jsugdgai9pubhpbunqf92r9k25k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGU3Gp_kXfSbAn770cfBv3jjYAPvS6M60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39770103581-s8qu9jsugdgai9pubhpbunqf92r9k25k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39770103581-0a869jglughmfhebfsblsvbs1e37vgsa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shodenn.kanjiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
